@@ -1,2 +1,2 @@
 # Race
-Game abot Race
+Game about Race
